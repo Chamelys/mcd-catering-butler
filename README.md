@@ -71,7 +71,8 @@
 将本仓库克隆到 `~/.workbuddy/skills/`：
 
 ```bash
-git clone https://github.com/<your-account>/mcd-catering-butler ~/.workbuddy/skills/mcd-catering-butler
+git clone https://github.com/Chamelys/mcd-catering-butler.git \
+  ~/.workbuddy/skills/mcd-catering-butler
 ```
 
 或直接把整个目录复制到 `~/.workbuddy/skills/mcd-catering-butler`。

@@ -1,22 +1,25 @@
 # Issue 报名文案
 
-> 使用方式：在 `M-China/mcd-developer-innovation-challenge` 仓库新建 Issue，标题自定，正文粘贴下方内容。
-> ⚠️ 规则要求：正文不超 1000 字、**不带图片**、不带外链。发布前把 `<你的GitHub用户名>` 替换掉。
+> **状态：已发布** — Issue #243
+> https://github.com/M-China/mcd-developer-innovation-challenge/issues/243
+>
+> 本文件保留作为存档与重新报名（如被拒后修改再提交）时的模板。
+> ⚠️ 规则要求：正文不超1000 字、**不带图片**、不带无关外链。
 
 ---
 
-## 标题（参考）
+## 标题（已使用）
 
 ```
-【参赛申请】团餐行政助手：人均预算拆解 + 费用归集的企业团餐Skill
+【参赛申请】团餐行政助手：人均预算拆解 + 费用归集的企业团餐 Skill
 ```
 
-## 正文（可直接粘贴）
+## 正文（已发布内容）
 
 ```
 【参赛申请】
 项目名称：mcd-catering-butler 团餐行政助手
-项目地址：https://github.com/<你的GitHub用户名>/mcd-catering-butler
+项目地址：https://github.com/Chamelys/mcd-catering-butler
 项目简介：基于麦当劳 MCP 企业团餐（beType=6）能力开发的 WorkBuddy Skill，把「明天给30个人订午餐、人均35元」这类模糊需求，转化为可核价、可对账、可下单的团餐方案。核心能力是人均预算分档编排、门店团餐覆盖查询、助餐服务比选、批量配餐分组与费用归集核对，直接服务于行政、HR、前台的真实报销场景。
 ```
 
